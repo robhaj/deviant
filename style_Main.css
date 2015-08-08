@@ -1,0 +1,71 @@
+body {
+	background-color: #121315 !important;
+}
+.container-fluid {
+	background-color: #0094FF !important;
+}
+.dropdown-toggle {
+	color: white !important;
+	font-size: 22px;
+}
+.active {
+	color: white !important;
+	font-size: 22px;
+}
+.navbar-brand {
+	color: #000000 !important;
+	font-size: 24px !important;
+}
+.linkstyle {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	color: #00FAFF !important;  
+}
+.navbar-right{
+	color: white !important
+}
+.navbar-right{
+	color: white !important
+}
+a {
+	text-decoration: none !important;
+	display: block;
+}
+ul {
+	list-style-type: none;
+}
+a.linkstyle:hover {
+	color: white !important;
+}
+h1.h1_Main {
+}
+h2.h2_Main {
+	text-align: center;
+	color: #1391F2;
+	font-family: 'Lato', sans-serif;
+}
+h3.h3_1 {
+	font-family: 'GeosansLight';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: white;
+}
+.contentArea {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 18px;
+	color: lightgrey;
+}
+footer {
+
+}
+.footer_Main {
+	
+}
+a {
+
+}
+a:hover {
+}
