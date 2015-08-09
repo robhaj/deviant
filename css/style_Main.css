@@ -2,21 +2,17 @@ body {
 	background-color: #121315;
 }
 
-h1.h1_Main {
+img {
+	width: 80%;
+	margin-left: 100px;
 }
 
-h2.h2_Main {
-	text-align: center;
-	color: #1391F2;
-	font-family: 'Lato', sans-serif;
-}
-
-h3.h3_1 {
+h3 {
 	font-family: 'GeosansLight';
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
-	color: white;
+	color: rgb(148, 148, 148);
 }
 
 a {
@@ -28,51 +24,34 @@ ul {
 	list-style-type: none;
 }
 
-a.linkstyle:hover {
-	color: white;
-}
-
 .container-fluid {
-	background-color: #0094FF;
+	background-color: #000000;
 }
 
-.dropdown-toggle {
-	color: white;
+li:hover {
 	font-size: 22px;
+  border-color:rgb(58, 216, 237);
 }
 
-.active {
-	color: white;
-	font-size: 22px;
+.caption {
+	background-color: black;
 }
 
-.navbar-brand {
-	color: #000000;
-	font-size: 24px ;
+p {
+	color: rgb(148, 148, 148);
 }
 
-.linkstyle {
-	font-family: 'Lato', sans-serif;
-	font-style: normal;
-	font-weight: normal;
-	color: #00FAFF;
+p:hover {
+	color:rgb(58, 216, 237);
 }
 
-.navbar-right{
-	color: white;
+.thumbnail {
+	background-color: black;
+	border-color: rgb(58, 216, 237);
 }
 
-.contentArea {
-	font-family: 'Lato', sans-serif;
-	text-align: center;
-	font-size: 18px;
-	color: lightgrey;
-}
-
-footer {
-
-}
-
-.footer_Main {
-
+#gametracker {
+	padding-top: 30px;
+display: inline;
+float: right;
 }
